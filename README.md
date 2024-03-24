@@ -1,10 +1,10 @@
 # Cpe-445-Project
 
 # Team members: 
-#Maryam Matar and Ghezlan Alotaibi
+Maryam Matar 2201127518
+Ghezlan Alotaibi 2192131066
 
-This projct is developed by Ghezlan and Maryam, it is a CPU scheduling program that incorporates multiple strategies, including Shortest Remaining Time First (SRTF), First-Come, First-Served (FCFS), Round Robin, and a custom algorithm of our own creation. To run this program, we need an input file containing information about each process, such as the process ID, arrival time, and burst time.
-
+This project is CPU scheduling program that incorporates multiple strategies, including Shortest Remaining Time First (SRTF), First-Come, First-Served (FCFS), Round Robin, and a custom algorithm of our own creation. To run this program, we need an input file containing information about each process, such as the process ID, arrival time, and burst time.
 Here's an explanation of each process strategy:
 
 1. First-Come First-Served (FCFS):
@@ -16,8 +16,8 @@ Round Robin is a preemptive scheduling algorithm where each process is assigned 
 3. Shortest Remaining Time First (SRTF):
 This strategy selects the process with the shortest remaining burst time to execute next. It is a preemptive scheduling algorithm.
 
-4. Custom algorithm: is a preemptive scheduling algorithm we customize, where processes are prioritizing even process id first,odd id will executed after. 
-
+4. Custom algorithm: This is a preemptive scheduling algorithm we customized, where processes are prioritized based on their process IDs. Even IDs are executed first, followed by odd IDs.
+   
 Instructions:
 To run the program, you must download PyCharm or use an online compiler.
 
