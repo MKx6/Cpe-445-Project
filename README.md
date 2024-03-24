@@ -17,3 +17,12 @@ Round Robin is a preemptive scheduling algorithm where each process is assigned 
 This strategy selects the process with the shortest remaining burst time to execute next. It is a preemptive scheduling algorithm.
 
 4. Custom algorithm: is a preemptive scheduling algorithm we customize, where processes are prioritizing even process id first,odd id will executed after. 
+
+Instructions:
+To run the program, you must download PyCharm or use an online compiler.
+
+1. Download the finalCode.py file, Custom.py file, and processes.txt (these files must be in the same path).
+2. The FCFS, Round Robin, and SRTF functions are in the finalCode.py file; run the program to see the result.
+3. If you want to change the input file, go to the main part and change the content of p_file.
+4. To use the custom function, run the custom.py file.
+    
