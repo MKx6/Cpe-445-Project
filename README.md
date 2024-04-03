@@ -21,6 +21,7 @@ This strategy selects the process with the shortest remaining burst time to exec
 Instructions:
 Our project code was implemented and executed using PyCharm. Any Python compiler can be used to run our code. 
 Simply compile and execute the files named finalCode.py and Custom.py
+
 Note: Make sure that the input file is named "processes.txt" and is located in the same path as the Python files.
 
 1. Download the finalCode.py file, Custom.py file, and processes.txt (these files must be in the same path).
