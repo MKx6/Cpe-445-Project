@@ -19,7 +19,9 @@ This strategy selects the process with the shortest remaining burst time to exec
 4. Custom algorithm: This is a preemptive scheduling algorithm we customized, where processes are prioritized based on their process IDs. Even IDs are executed first, followed by odd IDs.
    
 Instructions:
-To run the program, you must download PyCharm or use an online compiler.
+Our project code was implemented and executed using PyCharm. Any Python compiler can be used to run our code. 
+Simply compile and execute the files named finalCode.py and Custom.py
+Note: Make sure that the input file is named "processes.txt" and is located in the same path as the Python files.
 
 1. Download the finalCode.py file, Custom.py file, and processes.txt (these files must be in the same path).
 2. The FCFS, Round Robin, and SRTF functions are in the finalCode.py file; run the program to see the result.
